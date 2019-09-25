@@ -1,0 +1,22 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel src/index.js"
+  },
+  "author": "David Venin",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "flexboxgrid": "^6.3.1",
+    "parcel-bundler": "^1.12.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
